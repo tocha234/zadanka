@@ -1,0 +1,15 @@
+E:\repozytoria\zadanie3\zadanie3\bin\Debug\net7.0\zadanie3.exe
+E:\repozytoria\zadanie3\zadanie3\bin\Debug\net7.0\zadanie3.deps.json
+E:\repozytoria\zadanie3\zadanie3\bin\Debug\net7.0\zadanie3.runtimeconfig.json
+E:\repozytoria\zadanie3\zadanie3\bin\Debug\net7.0\zadanie3.dll
+E:\repozytoria\zadanie3\zadanie3\bin\Debug\net7.0\zadanie3.pdb
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\zadanie3.csproj.AssemblyReference.cache
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\zadanie3.AssemblyInfoInputs.cache
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\zadanie3.AssemblyInfo.cs
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\zadanie3.csproj.CoreCompileInputs.cache
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\zadanie3.dll
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\refint\zadanie3.dll
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\zadanie3.pdb
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\zadanie3.genruntimeconfig.cache
+E:\repozytoria\zadanie3\zadanie3\obj\Debug\net7.0\ref\zadanie3.dll
