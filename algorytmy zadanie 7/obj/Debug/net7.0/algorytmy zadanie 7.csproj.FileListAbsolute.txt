@@ -1,0 +1,15 @@
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\bin\Debug\net7.0\algorytmy zadanie 7.exe
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\bin\Debug\net7.0\algorytmy zadanie 7.deps.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\bin\Debug\net7.0\algorytmy zadanie 7.runtimeconfig.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\bin\Debug\net7.0\algorytmy zadanie 7.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\bin\Debug\net7.0\algorytmy zadanie 7.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\algorytmy zadanie 7.csproj.AssemblyReference.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\algorytmy zadanie 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\algorytmy zadanie 7.AssemblyInfoInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\algorytmy zadanie 7.AssemblyInfo.cs
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\algorytmy zadanie 7.csproj.CoreCompileInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\algorytmy zadanie 7.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\refint\algorytmy zadanie 7.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\algorytmy zadanie 7.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\algorytmy zadanie 7.genruntimeconfig.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 7\algorytmy zadanie 7\obj\Debug\net7.0\ref\algorytmy zadanie 7.dll
