@@ -1,0 +1,15 @@
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\bin\Debug\net7.0\algorytmy zadanie 8.exe
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\bin\Debug\net7.0\algorytmy zadanie 8.deps.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\bin\Debug\net7.0\algorytmy zadanie 8.runtimeconfig.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\bin\Debug\net7.0\algorytmy zadanie 8.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\bin\Debug\net7.0\algorytmy zadanie 8.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\algorytmy zadanie 8.csproj.AssemblyReference.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\algorytmy zadanie 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\algorytmy zadanie 8.AssemblyInfoInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\algorytmy zadanie 8.AssemblyInfo.cs
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\algorytmy zadanie 8.csproj.CoreCompileInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\algorytmy zadanie 8.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\refint\algorytmy zadanie 8.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\algorytmy zadanie 8.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\algorytmy zadanie 8.genruntimeconfig.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 8\algorytmy zadanie 8\obj\Debug\net7.0\ref\algorytmy zadanie 8.dll
