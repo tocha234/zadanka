@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "algorytmy zadanie 2/1.0.0": {
+        "runtime": {
+          "algorytmy zadanie 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algorytmy zadanie 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
