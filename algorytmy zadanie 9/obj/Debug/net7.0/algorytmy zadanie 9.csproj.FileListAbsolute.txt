@@ -1,0 +1,15 @@
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\bin\Debug\net7.0\algorytmy zadanie 9.exe
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\bin\Debug\net7.0\algorytmy zadanie 9.deps.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\bin\Debug\net7.0\algorytmy zadanie 9.runtimeconfig.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\bin\Debug\net7.0\algorytmy zadanie 9.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\bin\Debug\net7.0\algorytmy zadanie 9.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\algorytmy zadanie 9.csproj.AssemblyReference.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\algorytmy zadanie 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\algorytmy zadanie 9.AssemblyInfoInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\algorytmy zadanie 9.AssemblyInfo.cs
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\algorytmy zadanie 9.csproj.CoreCompileInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\algorytmy zadanie 9.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\refint\algorytmy zadanie 9.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\algorytmy zadanie 9.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\algorytmy zadanie 9.genruntimeconfig.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\algorytmy zadanie 9\algorytmy zadanie 9\obj\Debug\net7.0\ref\algorytmy zadanie 9.dll
